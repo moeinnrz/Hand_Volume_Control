@@ -27,7 +27,7 @@ This project is a touchless volume controller that uses hand gestures to adjust 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/HandVolumeControl.git
+git clone https://github.com/moeinnrz/Hand_Volume_Control.git
 cd HandVolumeControl
 ```
 2. Install Dependencies
