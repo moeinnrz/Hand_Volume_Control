@@ -54,6 +54,7 @@ Then show your hand to the webcam — bring your thumb and index finger closer t
 
   * The program changes system volume — make sure your script has the proper access.
   * Some systems may require running the Python script as administrator for full control.
+
 📁 File Structure
 ```
 HandVolumeControl/
